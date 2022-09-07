@@ -4,12 +4,12 @@ Stock Analysis for module 2
 
 ##The overview of this project
 
-The overview of this project is to give a clear analysis to Steve and his parents regarding how to diversify in investing all their money rather than on a particular trade of stock. I  mulled over the Daily Volume and returns of the stocks and nalysis were carried out on differents tickers yealrly and our findings will be seen in this report.
+The overview of this project is to give a clear analysis to Steve and his parents regarding how to diversify than investing all their money rather than on a particular trade of stock. I  mulled over the Daily Volume and returns of the stocks and analysis were carried out on differents tickers yealrly and our findings will be seen in this report.
 
-### The Purpose. The main purpose is too peruse on the Stock Data for 2017 and 2018.Make findings on the specicific Data Steve's Parents emphasized on and also analysed other Tickers for a proper feedback. I looked into difference stocks  using VBA. I also ran analysis of the 12 diferent stocks and to know how they performed based on the total daily Volume and the returns the output was displayed with some  stocks that compare to the ones that didnt perform well. For me to give an effiecnt and clearer analyis to Steve and other end users for easy understanding, i refactored the code and i noticed  that refactoring made the code more clearer. 
+### The Purpose. The main purpose is too peruse on the Stock Data for 2017 and 2018. Make findings on the specicific Data Steve's Parents emphasized on and also analysed other Tickers for a proper feedback. I looked into difference stocks  using VBA. I also ran analysis of the 12 diferents stocks and to know how they performed based on the total daily Volume and the returns and give analysis based on performance. For me to give an effiecnt and clearer analysis to Steve and other end users for easy understanding, i refactored the code and i noticed  that refactoring made the code more clearer. 
 
 Analysis.
-In the year 2017 , DQ had the lowest total volume and had the higest return as compared to 2018 where the total daily volume is higher than of 2017 but still have a negative (-) returns.As requested by Steve's parents' DQ was on negative in 2018. RUN in 2018 had the higest return rate but do not have the highest Total daily Volume. TERP had a negative return in 2017 and 2018 meaning it will not be a good investment for Steve's parents.
+In the year 2017 , DQ had the lowest total volume and had the higest return as compared to 2018 where the total daily volume is higher than of 2017 but still have a negative (-) returns.As requested by Steve's parents' to know how actively DQ performed. DQ was on negative in 2018. RUN in 2018 had the higest return rate but do not have the highest Total daily Volume. TERP had a negative return in 2017 and 2018 meaning it will not be a good investment for Steve's parents.
 ![This is an image] 
 (C:\Users\annyd\Desktop\Resources)
 
