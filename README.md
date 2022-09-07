@@ -13,7 +13,8 @@ In the year 2017 , DQ had the lowest total volume and had the higest return as c
 
 The stocks with the best returns for 2017 and 2018 are; ENPH and RUN.
 For 2017, the tickers that did well are; AY, CSIQ, DQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SEDG, SPWR, VSLR.
-In 2018, Ovreall speaking, majority of the stocks crashed and had a negative returns, However, ENPH and RUN stood out in return despite the overall negative outcome for the year. 
+In 2018, Ovreall speaking, majority of the stocks crashed and had a negative returns, However, ENPH and RUN stood out in return despite the overall negative outcome for the year 2018.
+SPWR had the second highest Daily Volume and a had a higher negative -44.6% but has a high return value in 2017.
 
 As Analyze here, trading a stock oftenly does not accurately reflect the value of the stock. 
 
