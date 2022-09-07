@@ -10,9 +10,18 @@ The overview of this project is to give a clear analysis to Steve and his parent
 
 Analysis.
 In the year 2017 , DQ had the lowest total volume and had the higest return as compared to 2018 where the total daily volume is higher than of 2017 but still have a negative (-) returns.As requested by Steve's parents' to know how actively DQ performed. DQ was on negative in 2018. RUN in 2018 had the higest return rate but do not have the highest Total daily Volume. TERP had a negative return in 2017 and 2018 meaning it will not be a good investment for Steve's parents.
-![This is an image] 
+
+The stocks with the best returns for 2017 and 2018 are; ENPH and RUN.
+For 2017, the tickers that did well are; AY, CSIQ, DQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SEDG, SPWR, VSLR.
+In 2018, majority of the stocks crashed and had a negative returns, However, ENPH and RUN stood out in return despite the overall negative outcome for the year 2018.
+SPWR had the second highest Daily Volume and a had a higher negative -44.6% but has a high return value in 2017.
+
+As Analyze here, trading a stock oftenly does not accurately reflect the value of the stock. 
+!This is an Image,
 (C:\Users\annyd\Desktop\Resources)
 
+
+I refactored my code and it ran much faster.  
 
 The stocks with the best returns for 2017 and 2018 are; ENPH and RUN.
 For 2017, the tickers that did well are; AY, CSIQ, DQ, ENPH, FSLR, HASI, JKS, RUN, SEDG, SEDG, SPWR, VSLR.
